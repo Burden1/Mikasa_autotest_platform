@@ -8,11 +8,11 @@ from jenkinsapi.jenkins import Jenkins
 
 class JenkinsUtils:
     # Jenkins 服务
-    BASE_URL = "http://www.loseweight.ren:8080/"
+    BASE_URL = "Jenkins 服务"
     # Jenkins 服务对应的用户名
-    USERNAME = "admin"
+    USERNAME = "Jenkins 服务对应的用户名"
     # Jenkins 服务对应的token
-    PASSWORD = "117b61c7fa8273bac9310916dc65277ac7"
+    PASSWORD = "Jenkins 服务对应的token"
     JOB = "ck22"
 
     @classmethod
