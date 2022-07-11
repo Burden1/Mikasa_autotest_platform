@@ -1,0 +1,6 @@
+## 进行数据库的配置
+database:
+  username: root
+  password: yy1998123
+  server: localhost
+  database: test_platform

@@ -1,0 +1,19 @@
+[2022-07-09 23:16:50] [INFO] [testcase_service.py]/[line: 56]/[delete] 测试用例不存在，不能进行删除 
+[2022-07-10 10:58:09] [INFO] [testcase_service.py]/[line: 68]/[delete] 测试用例不存在，不能进行删除 
+[2022-07-10 19:35:25] [DEBUG] [plan_serivce.py]/[line: 27]/[save] 测试计划关联的用例id为<class 'list'> 
+[2022-07-10 19:35:25] [DEBUG] [plan_serivce.py]/[line: 31]/[save] 测试计划关联的用例对象为[None, None] 
+[2022-07-10 19:35:52] [DEBUG] [plan_serivce.py]/[line: 27]/[save] 测试计划关联的用例id为<class 'list'> 
+[2022-07-10 19:35:52] [DEBUG] [plan_serivce.py]/[line: 31]/[save] 测试计划关联的用例对象为[<TestCaseEntity 5>, <TestCaseEntity 6>] 
+[2022-07-10 19:35:52] [DEBUG] [plan_serivce.py]/[line: 35]/[save] 测试计划获取到的测试用例的标题为['test_demo修改.py', 'test_demo1.py'] 
+[2022-07-10 19:35:52] [DEBUG] [plan_serivce.py]/[line: 67]/[execute] 需要执行的用例为test_demo修改.py test_demo1.py 
+[2022-07-10 19:38:20] [DEBUG] [plan_serivce.py]/[line: 23]/[save] 测试计划关联的用例id为<class 'list'> 
+[2022-07-10 19:38:20] [DEBUG] [plan_serivce.py]/[line: 27]/[save] 测试计划关联的用例对象为[<TestCaseEntity 5>, <TestCaseEntity 6>] 
+[2022-07-10 19:38:20] [DEBUG] [plan_serivce.py]/[line: 31]/[save] 测试计划获取到的测试用例的标题为['test_demo修改.py', 'test_demo1.py'] 
+[2022-07-10 19:40:24] [DEBUG] [plan_serivce.py]/[line: 23]/[save] 测试计划关联的用例id为<class 'list'> 
+[2022-07-10 19:40:24] [DEBUG] [plan_serivce.py]/[line: 27]/[save] 测试计划关联的用例对象为[<TestCaseEntity 5>, <TestCaseEntity 6>] 
+[2022-07-10 19:40:24] [DEBUG] [plan_serivce.py]/[line: 31]/[save] 测试计划获取到的测试用例的标题为['test_demo修改.py', 'test_demo1.py'] 
+[2022-07-10 19:52:01] [DEBUG] [plan_serivce.py]/[line: 23]/[save] 测试计划关联的用例id为<class 'list'> 
+[2022-07-10 19:52:01] [DEBUG] [plan_serivce.py]/[line: 27]/[save] 测试计划关联的用例对象为[<TestCaseEntity 5>, <TestCaseEntity 6>] 
+[2022-07-10 19:52:01] [DEBUG] [plan_serivce.py]/[line: 31]/[save] 测试计划获取到的测试用例的标题为['test_demo修改.py', 'test_demo1.py'] 
+[2022-07-10 23:01:51] [DEBUG] [plan_serivce.py]/[line: 65]/[execute] 需要执行的用例为测 试 用 例 信 息 
+[2022-07-10 23:01:52] [DEBUG] [plan_serivce.py]/[line: 69]/[execute] 测试报告地址:http://www.loseweight.ren:8080/job/ck22/23/allure 
